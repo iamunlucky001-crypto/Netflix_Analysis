@@ -39,4 +39,4 @@ Notebook included:
 ✨ Author
 Kiran Mohan S
 -BSc Computer Science with Data Analytics
--Aspiring Data Analyst
+-Aspiring Data Analyst.
