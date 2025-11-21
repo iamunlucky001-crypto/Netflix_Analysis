@@ -1,5 +1,5 @@
-📊 Netflix Data Analysis
-A simple data analysis project done using Python, Pandas, Matplotlib, and Jupyter Notebook to understand Netflix Movies & TV Shows data.
+📊 Netflix Data Analysis:
+"A simple data analysis project done using Python, Pandas, Matplotlib, and Jupyter Notebook to understand Netflix Movies & TV Shows data."
 
 📁 Dataset
 netflix_titles.csv (Public dataset from Kaggle)
